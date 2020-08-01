@@ -12,7 +12,7 @@ driver = webdriver.Chrome('/Users/revantkantamneni/Desktop/Revant_Nike_Bot/chrom
 #Login
 urs = 'revantkantamneni@gmail.com'
 urs2 = 'tumbletipsforyou@gmail.com'
-pw = 'Rayk1605$MONEY'
+pw = '' #input password here
 shoe_size = 'M 10.5 / W 12'
 
 #Load Website and Click Sign In
